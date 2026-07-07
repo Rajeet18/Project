@@ -1,0 +1,9 @@
+streamlit
+flask
+requests
+pandas
+scikit-learn
+joblib
+langchain
+langchain-openai
+python-dotenv

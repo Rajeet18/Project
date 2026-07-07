@@ -1,0 +1,12 @@
+[
+  {"name": "Paneer Butter Masala", "cuisine": "Indian", "price": 220, "veg": true},
+  {"name": "Veg Biryani", "cuisine": "Indian", "price": 180, "veg": true},
+  {"name": "Chicken Biryani", "cuisine": "Indian", "price": 260, "veg": false},
+  {"name": "Margherita Pizza", "cuisine": "Italian", "price": 240, "veg": true},
+  {"name": "Chicken Pizza", "cuisine": "Italian", "price": 320, "veg": false},
+  {"name": "Veg Hakka Noodles", "cuisine": "Chinese", "price": 170, "veg": true},
+  {"name": "Chicken Noodles", "cuisine": "Chinese", "price": 220, "veg": false},
+  {"name": "Masala Dosa", "cuisine": "South Indian", "price": 130, "veg": true},
+  {"name": "Idli Sambhar", "cuisine": "South Indian", "price": 110, "veg": true},
+  {"name": "Burger Combo", "cuisine": "American", "price": 199, "veg": true}
+]
